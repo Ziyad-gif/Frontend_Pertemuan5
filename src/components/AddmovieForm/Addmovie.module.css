@@ -1,0 +1,43 @@
+.container{
+    padding:0;
+    margin:4em 0;
+    display: flex;
+    flex:wrap;
+    justify-content:space-between;
+}
+.formImage{
+    width: 600px;
+    height:400px;
+    margin:auto;
+
+}
+.formInput{
+    margin-top: 0.7em;
+    border:1px solid ;
+    border-radius: 5px;
+    height:2em;
+}
+
+
+.formLeft{
+    display:flex;
+
+}
+.formRight{
+    margin-right: 400px;
+    font-size: 20px;
+
+}
+.formRight h2{
+    font-size: 30px;
+    padding-left: 40px;
+}
+.formButton{
+    
+    width:200px;
+    border-radius:20px;
+    background-color: crimson;
+    color:white;
+    margin-left: 25px;
+
+}
